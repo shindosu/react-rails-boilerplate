@@ -1,30 +1,24 @@
-# react-boilerplate
+# README
 
-Simple react starter with the following config:
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-- React, ReactDOM
-- Webpack 4
-- Babel with es2015 and react presets
-- Bootstrap (css only, loaded from a cdn in `index.html`)
-- work with `.js` or `.jsx` files
-- main `application.scss` stylesheet is imported in `index.js` as a module to enjoy hot reloading
+Things you may want to cover:
 
-## Scripts
+* Ruby version
 
-To start the local Webpack Dev Server (usually on port `8080`):
+* System dependencies
 
-```bash
-yarn start
-```
+* Configuration
 
-To lint all JavaScript files in the `src` folder:
+* Database creation
 
-```bash
-yarn lint
-```
+* Database initialization
 
-To build and deploy your app to `gh-pages` branch on the GitHub repo:
+* How to run the test suite
 
-```bash
-yarn deploy
-```
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
